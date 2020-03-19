@@ -265,3 +265,5 @@ mod internal {
         }
     }
 }
+
+pub use internal::CompressableBody;
